@@ -1,0 +1,23 @@
+ul{
+    font-size: medium;
+}
+ol{
+    font-size: medium;
+}
+style{
+    border-style: dotted;
+    font-style: oblique;
+    outline-style: dashed;
+    list-style: circle;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+colgroup{
+    color: aqua;
+}
+h1{
+    font-size: large;
+    font-style: oblique;
+    color: aqua;
+}
